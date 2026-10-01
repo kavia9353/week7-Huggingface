@@ -1,0 +1,6 @@
+Original Text,Summary
+"
+Hugging Face is an open-source platform that provides tools for machine learning and artificial intelligence applications. 
+It is best known for its Transformers library, which simplifies the implementation of state-of-the-art natural language processing models. 
+With Hugging Face pipelines, developers and researchers can quickly perform tasks such as text classification, summarization, translation, and question answering without needing to manage complex model architectures manually.
+","[{'summary_text': 'developers and researchers can quickly perform tasks such as text classification, summarization, translation, and question answering without having to manage complex model architectures manually .'}]"

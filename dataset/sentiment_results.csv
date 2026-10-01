@@ -1,0 +1,6 @@
+Text,Sentiment,Score
+I really enjoyed learning about artificial intelligence.,POSITIVE,0.9997871518135071
+The new technology is very useful and easy to understand.,POSITIVE,0.9998465776443481
+I am unhappy with the poor performance of this software.,NEGATIVE,0.9998087286949158
+Hugging Face makes natural language processing accessible.,POSITIVE,0.9995617270469666
+The product quality is excellent and I am very satisfied.,POSITIVE,0.999870777130127
